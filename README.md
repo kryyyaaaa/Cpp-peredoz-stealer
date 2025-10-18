@@ -1,1 +1,2 @@
-# Go-Peredoz-nemsa-stealer
+# Go-peredoz-stealer
+> soon idk
