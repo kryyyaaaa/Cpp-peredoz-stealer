@@ -1,4 +1,4 @@
 # Go-peredoz-stealer
 > soon idk
 > 
-> [check telegram channel](https://t.me/kryyaasoft)
+> <p align="center">[check telegram channel](https://t.me/kryyaasoft)</p>
